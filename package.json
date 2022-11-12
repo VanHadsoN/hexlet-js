@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/VanHadsoN/hexlet-js/issues"
   },
-  "homepage": "https://github.com/VanHadsoN/hexlet-js#readme"
+  "homepage": "https://github.com/VanHadsoN/hexlet-js#readme",
+  "devDependencies": {
+    "eslint": "^8.27.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
 }
